@@ -1,4 +1,4 @@
-#tictactoe project
+#tictactoe team project
 import random
 L = [[" ", "A", "B", "C"],["1", " ", " ", " "],["2", " ", " ", " "],["3", " ", " ", " "]]
 
